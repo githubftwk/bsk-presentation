@@ -1,8 +1,5 @@
 This is project is using [Create React App](https://github.com/facebookincubator/create-react-app) for building a Component that can be used as an online presentations.
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 ## Table of Contents
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
