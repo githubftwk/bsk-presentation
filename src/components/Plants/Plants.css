@@ -1,0 +1,9 @@
+.plantsRoot{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.plants_item{
+  flex: 1;
+}

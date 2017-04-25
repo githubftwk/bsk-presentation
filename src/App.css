@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.app {
+  text-align: center;
+}
+.app_content{
+  overflow: hidden;
+}
+.item1{
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  text-align: center;
+  border: 1px solid #222;
+}
+.item2{
+  width: 100vw;
+  height: 100vh;
+  background: green;
+  text-align: center;
+  border: 1px solid #222;
+}
+.item3{
+  width: 100vw;
+  height: 100vh;
+  background: blue;
+  text-align: center;
+  border: 1px solid #222;
+}
+.item4{
+  width: 100vw;
+  height: 100vh;
+  background: gray;
+  text-align: center;
+  border: 1px solid #222;
+}
+.item5{
+  width: 100vw;
+  height: 100vh;
+  background: red;
+  text-align: center;
+  border: 1px solid #222;
+}
+.item6{
+  width: 100vw;
+  height: 100vh;
+  background: orange;
+  text-align: center;
+  border: 1px solid #222;
+}

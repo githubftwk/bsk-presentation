@@ -1,0 +1,27 @@
+{
+  "name": "bsk-presentaion",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-react-app": "^0.6.2",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "dependencies": {
+    "email-addresses": "^2.0.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-motion": "^0.4.8",
+    "react-scripts": "0.9.5",
+    "rxjs": "^5.2.0"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/react-scripts start",
+    "build": "./node_modules/.bin/react-scripts build",
+    "test": "./node_modules/.bin/react-scripts test --env=jsdom",
+    "eject": "./node_modules/.bin/react-scripts eject"
+  }
+}
